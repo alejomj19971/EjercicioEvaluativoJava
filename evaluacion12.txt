@@ -1,0 +1,36 @@
+1. El (=) es para separar un espacio de memoria cuando se declara una varible y para designar ejm numero=1 ; y el (==) es un operador relacional  
+se utiliza para comparar; para decir que algo es exactamente igual a algo  ejm if(1==1) {[algoritmo]}
+
+2. Los tipos básicos de dato en java especifican el tamaño y los tipos de varibles : los más usados son: 
+
+Tipos  primitivos:
+-byte(-128 a 127,1 byte)
+-short (32,768 a 32,767 ;2 bytes)
+-int(enteros;4 bytes)
+-long(8 bytes, todos los numeros en un rango)
+ -float(4 bytes, numeros  racionales o decimales  hasta 6 o 7 cifras decimales) ,
+-double(8 bytes,  hasta 15 dígitos decimales)
+-boolean(True or False ,1bit)
+char (caracter,2 bytes).
+
+Tipo de Serie
+-String(cadena);
+ También existen  tipos numericos ,y tipos de fecha y hora.
+
+
+3. La empresa que se encarga de mantener actualmente a java es Oracle corporation,se creo por la empresa Sun Microsystem(1995).
+Se especializa principalmente en desarrollar y comercializar software y tecnología de bases de datos, 
+sistemas de ingeniería en la nube y productos de software empresarial.
+
+4. Java se utiliza para el desarrollo de aplicaciones, ya que es rapido,seguro y estable, se ha estado desarrollando por mucho tiempo, y muchas paginas web y aplicaciones han sido creadas con java. 
+ - Como es un lenguaje fuertemente tipado puede utilizarse para hacer aplicaciones seguras (ciberseguridad)
+ - Se puede usara para hacer videojuegos.
+ -Crear servicios en la web
+ -Combinar aplicaciones
+ - apliaciones para servidores remotos,microcontroladores,módulos inalámbricos, sensores, gateways, 
+ productos de consumo y prácticamente cualquier otro dispositivo electrónico.
+
+-Se pueden crear servidores en la nube.
+-Permite Integrar distintos servicios.
+-Si se usa en inteligencia artifical ,crear soluciones de aprendizaje automático,programación genética,algoritmos de busqueda,redes neuronales y sistemas multirobot.
+-Hay frameworks como spring que se crearon para código de alto rendimiento.
